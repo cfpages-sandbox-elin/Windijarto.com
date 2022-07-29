@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by (Accrue http://www.accruemarketing.com/) -->
+<!-- Generated-on="July 29, 2022, 8:03 am" -->
+<?xml-stylesheet type="text/xsl" href="https://windijarto.com/video-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+ <url>
+ <loc>https://windijarto.com/team/rooswanti</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/ZkTC8YKO2lA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/ZkTC8YKO2lA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Rr. Rooswanti Putri Adi Agustini, S.Kom., M.M.</video:title>
+  <video:description>Dr. Rr. Rooswanti Putri Adi Agustini, S.Kom., M.M.</video:description>
+  <video:publication_date>2022-07-28T16:11:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/maryono</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/ZkTC8YKO2lA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/ZkTC8YKO2lA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Ir. Maryono Supoyo, MS.</video:title>
+  <video:description>Dr. Ir. Maryono Supoyo, MS.</video:description>
+  <video:publication_date>2022-07-28T15:52:17+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/andry</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/ZkTC8YKO2lA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/ZkTC8YKO2lA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Andry Irwanto, S.E.,MBA, Ak.</video:title>
+  <video:description>Dr. Andry Irwanto, S.E.,MBA, Ak.</video:description>
+  <video:publication_date>2022-07-28T15:27:56+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/windijarto</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/ZkTC8YKO2lA</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/ZkTC8YKO2lA/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Windijarto, SE. MBA</video:title>
+  <video:description>Dr. Windijarto, SE. MBA</video:description>
+  <video:publication_date>2022-07-28T14:23:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/rooswanti</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Rr. Rooswanti Putri Adi Agustini, S.Kom., M.M.</video:title>
+  <video:description>Dr. Rr. Rooswanti Putri Adi Agustini, S.Kom., M.M.</video:description>
+  <video:publication_date>2022-07-28T16:11:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/maryono</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Ir. Maryono Supoyo, MS.</video:title>
+  <video:description>Dr. Ir. Maryono Supoyo, MS.</video:description>
+  <video:publication_date>2022-07-28T15:52:17+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/andry</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Andry Irwanto, S.E.,MBA, Ak.</video:title>
+  <video:description>Dr. Andry Irwanto, S.E.,MBA, Ak.</video:description>
+  <video:publication_date>2022-07-28T15:27:56+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://windijarto.com/team/windijarto</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi//hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Dr. Windijarto, SE. MBA</video:title>
+  <video:description>Dr. Windijarto, SE. MBA</video:description>
+  <video:publication_date>2022-07-28T14:23:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+</urlset>
