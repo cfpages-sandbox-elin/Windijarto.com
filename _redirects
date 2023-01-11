@@ -1,0 +1,7 @@
+/consulting/financial https://windijarto.com/consulting/financial-planning 301
+/consulting/financial/* https://windijarto.com/consulting/financial-planning/$1 301
+/consulting/system https://windijarto.com/consulting/information-system 301
+/consulting/system/* https://windijarto.com/consulting/information-system/$1 301
+/consulting/human https://windijarto.com/consulting/human-resource 301
+/consulting/human/* https://windijarto.com/consulting/human-resource/$1 301
+/consulting/research https://windijarto.com/consulting/corporate-research 301
