@@ -1,7 +1,13 @@
-/consulting/financial https://windijarto.com/consulting/financial-planning 301
-/consulting/financial/* https://windijarto.com/consulting/financial-planning/$1 301
+/consulting/financial https://windijarto.com/consulting/corporate-financial 301
+/consulting/financial/feasibility https://windijarto.com/consulting/corporate-financial/feasibility 301
+/consulting/financial/valuation https://windijarto.com/consulting/corporate-financial/valuation 301
 /consulting/system https://windijarto.com/consulting/information-system 301
-/consulting/system/* https://windijarto.com/consulting/information-system/$1 301
+/consulting/system/architecture https://windijarto.com/consulting/information-system/architecture 301
+/consulting/system/governance https://windijarto.com/consulting/information-system/governance 301
+/consulting/system/adoption https://windijarto.com/consulting/information-system/adoption 301
+/consulting/system/sisp https://windijarto.com/consulting/information-system/sisp 301
 /consulting/human https://windijarto.com/consulting/human-resource 301
-/consulting/human/* https://windijarto.com/consulting/human-resource/$1 301
+/consulting/human/compensation https://windijarto.com/consulting/human-resource/compensation 301
+/consulting/human/grading-kpi https://windijarto.com/consulting/human-resource/grading-kpi 301
+/consulting/human/manpower https://windijarto.com/consulting/human-resource/manpower 301
 /consulting/research https://windijarto.com/consulting/corporate-research 301
