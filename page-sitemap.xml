@@ -1,543 +1,543 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/blog</loc>
+		<loc>https://windijarto.com/blog</loc>
 		<lastmod>2023-01-04T16:08:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/</loc>
+		<loc>https://windijarto.com/</loc>
 		<lastmod>2023-01-10T14:17:51+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Konsultan-Manajemen.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Konsultan-Manajemen.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/universitas-airlangga.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/universitas-airlangga.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/consulting.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/consulting.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/teaching.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/teaching.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/project-collaboration.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/project-collaboration.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate-research</loc>
+		<loc>https://windijarto.com/consulting/corporate-research</loc>
 		<lastmod>2023-01-10T13:00:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Corporate-Research-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Corporate-Research-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Corporate-Research-2-pzgs3s9ygi8vlf55ibo3v71jwf9j5nw0m2i2tzlh1w.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/elementor/thumbs/Corporate-Research-2-pzgs3s9ygi8vlf55ibo3v71jwf9j5nw0m2i2tzlh1w.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/human-resource</loc>
+		<loc>https://windijarto.com/consulting/human-resource</loc>
 		<lastmod>2023-01-10T12:20:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Human-Resources-Department-HRD-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Human-Resources-Department-HRD-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Human-Resources-Department-HRD-1-pzgsagwn23ea5lfmh7ollibjz2bhw6fav5idotonsc.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/elementor/thumbs/Human-Resources-Department-HRD-1-pzgsagwn23ea5lfmh7ollibjz2bhw6fav5idotonsc.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/information-system</loc>
+		<loc>https://windijarto.com/consulting/information-system</loc>
 		<lastmod>2023-01-10T12:08:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Information-System-Planning.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Information-System-Planning.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/Perencanaan-Sistem-Informasi-2-pzgpfq5r8vh4vnguhx0zjl71xt4z3euikh0kake7ig.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/elementor/thumbs/Perencanaan-Sistem-Informasi-2-pzgpfq5r8vh4vnguhx0zjl71xt4z3euikh0kake7ig.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Perencanaan-Sistem-Informasi.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Perencanaan-Sistem-Informasi.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate-financial</loc>
+		<loc>https://windijarto.com/consulting/corporate-financial</loc>
 		<lastmod>2023-01-10T12:07:52+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-3.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/elementor/thumbs/perencanaan-keuangan-perusahaan-1-pzg3y0aaffl4f6jkecw0moijcuackexl12jc4h83eo.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/elementor/thumbs/perencanaan-keuangan-perusahaan-1-pzg3y0aaffl4f6jkecw0moijcuackexl12jc4h83eo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/study</loc>
+		<loc>https://windijarto.com/consulting/business/study</loc>
 		<lastmod>2023-01-09T15:09:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Kajian-Bisnis-1024x576.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Kajian-Bisnis-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Kajian-Bisnis-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Kajian-Bisnis-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/management</loc>
+		<loc>https://windijarto.com/consulting/business/management</loc>
 		<lastmod>2023-01-09T15:08:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Business-Process-Management-Notation-1024x768.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Business-Process-Management-Notation-1024x768.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Jasa-Konsultan-Penyusunan-Proses-Bisnis.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Jasa-Konsultan-Penyusunan-Proses-Bisnis.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/stakeholder</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/stakeholder</loc>
 		<lastmod>2023-01-09T15:07:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Stakeholder.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Stakeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Stakeholder-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Stakeholder-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/information</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/information</loc>
 		<lastmod>2023-01-09T15:05:16+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi-2.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi-2.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/organization</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/organization</loc>
 		<lastmod>2023-01-09T15:03:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Organization-Capital-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Organization-Capital-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Organization-Capital-2.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Organization-Capital-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/infrastructures</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/infrastructures</loc>
 		<lastmod>2023-01-09T15:01:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Infrastruktur-1024x539.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Infrastruktur-1024x539.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Infrastruktur-2-1024x463.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Infrastruktur-2-1024x463.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/human</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/human</loc>
 		<lastmod>2023-01-09T14:59:09+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Roadmap-Human-Capital-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Roadmap-Human-Capital-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Roadmap-Human-Capital.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Roadmap-Human-Capital.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/governance</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/governance</loc>
 		<lastmod>2023-01-09T14:57:51+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Roadmap-Governance-3.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Roadmap-Governance-3.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap/branding</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap/branding</loc>
 		<lastmod>2023-01-09T14:55:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Corporate-Branding-2.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Corporate-Branding-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Corporate-Branding-1024x576.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Penyusunan-Roadmap-Corporate-Branding-1024x576.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business/roadmap</loc>
+		<loc>https://windijarto.com/consulting/business/roadmap</loc>
 		<lastmod>2023-01-09T14:54:14+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Business-Roadmap.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Business-Roadmap.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/membuat-business-roadmap.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/membuat-business-roadmap.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/business</loc>
+		<loc>https://windijarto.com/consulting/business</loc>
 		<lastmod>2023-01-09T14:51:31+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Corporate-planning.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Corporate-planning.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pentingnya-perencanaan-bisnis.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pentingnya-perencanaan-bisnis.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/jasa-konsultan-manajemen.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/jasa-konsultan-manajemen.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate/rkap</loc>
+		<loc>https://windijarto.com/consulting/corporate/rkap</loc>
 		<lastmod>2023-01-09T13:11:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Kerja-dan-Anggaran-Pengeluaran-RKAP.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Kerja-dan-Anggaran-Pengeluaran-RKAP.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Kerja-dan-Anggaran-Pengeluaran-RKAP-2-1024x600.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Kerja-dan-Anggaran-Pengeluaran-RKAP-2-1024x600.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate/rjpp</loc>
+		<loc>https://windijarto.com/consulting/corporate/rjpp</loc>
 		<lastmod>2023-01-09T13:09:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/RJPP-BUMN-Indonesia-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/RJPP-BUMN-Indonesia-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/RJPP-BUMN-Indonesia.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/RJPP-BUMN-Indonesia.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate/rjmp</loc>
+		<loc>https://windijarto.com/consulting/corporate/rjmp</loc>
 		<lastmod>2023-01-09T12:54:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Jangka-Menengah-Perusahaan-RJMP-1024x576.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Konsultan-Rencana-Jangka-Menengah-Perusahaan-RJMP-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate</loc>
+		<loc>https://windijarto.com/consulting/corporate</loc>
 		<lastmod>2023-01-09T12:52:20+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/corporate.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/corporate.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Corporate-planning-Terbaik.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Corporate-planning-Terbaik.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/perencanaan-bisnis.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/perencanaan-bisnis.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/information-system/sisp</loc>
+		<loc>https://windijarto.com/consulting/information-system/sisp</loc>
 		<lastmod>2023-01-09T12:50:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-2-1024x594.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-2-1024x594.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/information-system/adoption</loc>
+		<loc>https://windijarto.com/consulting/information-system/adoption</loc>
 		<lastmod>2023-01-09T12:43:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Information-Technology-IT-Adoption-Rate-2.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Information-Technology-IT-Adoption-Rate-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Information-Technology-IT-Adoption-Rate-1.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Information-Technology-IT-Adoption-Rate-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/information-system/governance</loc>
+		<loc>https://windijarto.com/consulting/information-system/governance</loc>
 		<lastmod>2023-01-09T12:40:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Cara-Menyusun-Data-Governance.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Cara-Menyusun-Data-Governance.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Roadmap-Governance-3.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Roadmap-Governance-3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/information-system/jasa-penyusunan-data-architecture</loc>
+		<loc>https://windijarto.com/consulting/information-system/jasa-penyusunan-data-architecture</loc>
 		<lastmod>2023-01-09T12:38:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Konsultan-Penyusunan-Data-Architecture-1024x562.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Konsultan-Penyusunan-Data-Architecture-1024x562.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Roadmap-Governance-2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/human-resource/manpower</loc>
+		<loc>https://windijarto.com/consulting/human-resource/manpower</loc>
 		<lastmod>2023-01-09T12:26:17+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Manpower-Planning.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Manpower-Planning.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Corporate-planning-Terbaik.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Corporate-planning-Terbaik.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/human-resource/compensation</loc>
+		<loc>https://windijarto.com/consulting/human-resource/compensation</loc>
 		<lastmod>2023-01-09T11:19:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Manajemen-Kompensasi-1024x551.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Manajemen-Kompensasi-1024x551.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi-2.webp</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Penyusunan-Roadmap-Sistem-Informasi-2.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/human-resource/grading-kpi</loc>
+		<loc>https://windijarto.com/consulting/human-resource/grading-kpi</loc>
 		<lastmod>2023-01-09T11:18:34+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Job-Grading-Key-Performance-Indicators-KPI.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Job-Grading-Key-Performance-Indicators-KPI.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-2-1024x594.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Konsultan-Penyusunan-Strategic-Information-System-Planning-SISP-2-1024x594.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate-financial/valuation</loc>
+		<loc>https://windijarto.com/consulting/corporate-financial/valuation</loc>
 		<lastmod>2023-01-09T11:12:09+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Jasa-Penyusunan-Dokumen-Bisnis.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Jasa-Penyusunan-Dokumen-Bisnis.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-3-1024x683.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/perencanaan-keuangan-perusahaan-3-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-1024x512.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-1024x512.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting/corporate-financial/feasibility</loc>
+		<loc>https://windijarto.com/consulting/corporate-financial/feasibility</loc>
 		<lastmod>2023-01-09T11:08:32+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/bg-02-free-img.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-2.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-2.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-1024x512.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2023/01/Studi-Kelayakan-Bisnis-Feasibility-Study-1024x512.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/consulting</loc>
+		<loc>https://windijarto.com/consulting</loc>
 		<lastmod>2023-01-09T10:27:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/subscribe</loc>
+		<loc>https://windijarto.com/subscribe</loc>
 		<lastmod>2023-01-04T16:11:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/letter</loc>
+		<loc>https://windijarto.com/letter</loc>
 		<lastmod>2023-01-04T16:03:38+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/portfolio</loc>
+		<loc>https://windijarto.com/portfolio</loc>
 		<lastmod>2023-01-04T15:57:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/client</loc>
+		<loc>https://windijarto.com/client</loc>
 		<lastmod>2023-01-04T14:47:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pefindo.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/pt-pelindo-marine.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/surya-sembada-.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/universitas-terbuka.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/mega-marine-pride.png.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/partner</loc>
+		<loc>https://windijarto.com/partner</loc>
 		<lastmod>2023-01-04T14:37:21+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/universitas-airlangga.jpg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/universitas-airlangga.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/teaching</loc>
+		<loc>https://windijarto.com/teaching</loc>
 		<lastmod>2022-12-20T00:36:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/project-collaboration</loc>
+		<loc>https://windijarto.com/project-collaboration</loc>
 		<lastmod>2022-12-20T00:36:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/team/windijarto</loc>
+		<loc>https://windijarto.com/team/windijarto</loc>
 		<lastmod>2022-12-19T14:42:08+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/maryono</loc>
+		<loc>https://windijarto.com/team/maryono</loc>
 		<lastmod>2022-12-19T14:41:14+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/blank.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/blank.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/andry</loc>
+		<loc>https://windijarto.com/team/andry</loc>
 		<lastmod>2022-12-19T14:37:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Andry-Irwanto-S.E.MBA-Ak..jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Andry-Irwanto-S.E.MBA-Ak..jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team/rooswanti</loc>
+		<loc>https://windijarto.com/team/rooswanti</loc>
 		<lastmod>2022-12-19T01:54:27+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/blank.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/blank.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/team</loc>
+		<loc>https://windijarto.com/team</loc>
 		<lastmod>2022-12-14T15:35:42+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Windijarto-SE.-MBA-1.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/Dr.-Andry-Irwanto-S.E.MBA-Ak..jpeg</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/Dr.-Andry-Irwanto-S.E.MBA-Ak..jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/blank.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/blank.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2022/12/blank.png</image:loc>
+			<image:loc>https://windijarto.com/wp-content/uploads/2022/12/blank.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/kontak</loc>
+		<loc>https://windijarto.com/kontak</loc>
 		<lastmod>2022-12-14T14:57:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/prevention</loc>
+		<loc>https://windijarto.com/prevention</loc>
 		<lastmod>2022-12-13T16:22:36+00:00</lastmod>
 	</url>
 </urlset>
